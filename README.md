@@ -11,7 +11,8 @@
   <img align="center" alt="Amaral-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Amaral-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
-  <img height="200" width="200" align="right" alt="Amaral's-gif" src="https://i.pinimg.com/originals/f3/6f/43/f36f43f1abfb1db2ea01de55225c1f47.png">
+   <img height="200" width="200" align="right" alt="Amaral's-gif" src="https://i.pinimg.com/originals/f3/6f/43/f36f43f1abfb1db2ea01de55225c1f47.png">
+   <img height="200" width="200" align="right" alt="Amaral's-gif" src="https://i.imgur.com/7YI6iNp.png">
 </div>
   
   ##
