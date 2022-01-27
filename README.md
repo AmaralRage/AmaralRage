@@ -1,4 +1,4 @@
-### Olá! Eu sou Lucas Amaral
+### Olá ! Eu sou Lucas Amaral e este é meu perfil !
 ### Contato por Email: amaralaragao31@gmail.com
 
  <div>
@@ -16,10 +16,10 @@
   <img align="center" alt="Amaral-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amaral-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Amaral-PHP" height="32" width="35" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/github-bartzaalberg-php-tester-icon.png">
-    <img align="center" alt="Amaral-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Amaral-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Amaral-Bootstrap" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Amaral-VsCode" height="30" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
-   <img height="170" width="170" align="right" alt="Amaral's-gif" src="https://i.pinimg.com/originals/f3/6f/43/f36f43f1abfb1db2ea01de55225c1f47.png">
+   <img height="160" width="160" align="right" alt="Amaral's-gif" src="https://i.pinimg.com/originals/f3/6f/43/f36f43f1abfb1db2ea01de55225c1f47.png">
 </div>
   
   ##
