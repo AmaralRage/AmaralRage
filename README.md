@@ -63,7 +63,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" border_radius="20" alt="NTL" src="https://media.licdn.com/dms/image/C4D0BAQF1DwauaIYWRw/company-logo_200_200/0/1630539824323?e=2147483647&v=beta&t=YPG7nVracGhcqp0GNIKRsYU9qB6ifMzBAboSpEP7Th8"/>]
 **Software Developer** \
 [**NTL Nova Tecnologia LTDA**](www.ntl.com.br/) • 6 Horas \
-Competências: `Desenvolvimento Web`, `Banco de dados`
+Competências: `Desenvolvimento FullStack`, `Banco de dados`
 <br/> `Visual Studio Code`, `Git`, `SQLServer`,
 
 <!-- #### Formação Acadêmica:
