@@ -1,53 +1,25 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=110&section=header"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-<!-- ### Seja bem vindo(a) ! -->
+- 🖥️  Development Student - Front-End
+- 🚀 Currently working at NTL as Apprentice Fullstack Developer
+- 👨🏼‍🎓 Graduated in Computer Technician - Colégio Santo Inácio - Botafogo-RJ.
+- 🏦 I currently work as a web development apprentice at NTL, a Web Development Company
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lucas+Amaral;I'm+23+years+old;Be+Welcome!+)](https://git.io/typing-svg)
-
-<div style="display: inline_block"></div><br>
- <div></div> 
-
-<!-- 👤  Lucas Amaral, 23 anos, carioca. -->
-
-🖥️ Development Student - Front-End
-
-🚀 Currently working at NTL as Apprentice Fullstack Developer
-
-👨🏼‍🎓   Graduated in Computer Technician - Colégio Santo Inácio - Botafogo-RJ.  
 
 🪐 My Summaries:
 
 <div>
 <a href="https://github.com/AmaralRage">
   <img height="179em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmaralRage&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=0c1a25&border_radius=10"/>
-  <img height="179em" aligh="right" style=border_radius="20" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmaralRage&layout=compact&langs_count=8&theme=midnight-purple&border_color=0c1a25&border_radius=10"/>
+  <img height="179em" src=https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmaralRage&layout=compact&langs_count=8&theme=midnight-purple&border_color=0c1a25&border_radius=10"/>
 </a>
-
-
-<!-- <div>
-<!--   <a href="https://github.com/AVS1508"> -->
-<!--   <img height="178em" src="https://github-readme-stats.vercel.app/api?username=AmaralRage&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=0c1a25&border_radius=10"/> -->
-<!--   <img height="178em" aligh="right" style=border_radius="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaralRage&layout=compact&langs_count=7&theme=midnight-purple&border_color=0c1a25&border_radius=10"/> -->
-<!-- </div> -->
  
 ##
  
  ### Languages ​​and Tools
- 
-  <div style="display: inline_block"><br>
-   
- [<img height="40px" width="40px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
- [<img height="40px" width="40px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
- [<img height="40px" width="40px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
- [<img height="40px" width="40px" alt="Icone Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/>](https://www.figma.org/pt/)
- [<img height="40px" width="40px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>](https://nodejs.org)
- [<img height="41px" width="41px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.postgresql.org)
- [<img height="41px" width="41px" alt="Icone PHP" src="https://skillicons.dev/icons?i=php"/>](https://www.postgresql.org)
- [<img height="40px" width="40px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.org/pt/)
- [<img height="40px" width="40px" alt="Icone VSCode" src="https://skillicons.dev/icons?i=vscode"/>](https://www.figma.org/pt/)
 
-   <img height="200" width="160" align="right" alt="Amaral's-gif" src="https://cdn.discordapp.com/attachments/1094999674307405749/1100020609564410250/mulherlinda_1.gif">
-   </div>
   
   ##
   
