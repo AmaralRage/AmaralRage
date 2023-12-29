@@ -14,8 +14,8 @@
 
 <div>
 <a href="https://github.com/AmaralRage">
-  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmaralRage&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=0c1a25&border_radius=10"/>
-  <img height="175em" src=https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmaralRage&layout=compact&langs_count=8&theme=midnight-purple&border_color=0c1a25&border_radius=10"/>
+  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmaralRage&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
+  <img height="175em" src=https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmaralRage&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&border_radius=10"/>
 </a> 
 
 <!-- <a href="https://github.com/AmaralRage">
@@ -60,13 +60,20 @@
 #### Experiência Profissional:
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/QMhRjxt3/Icone-UP-3.png"/>](https://www.uzzipay.com/)
-**Strategy and Innovation Analyst** \
-[**UzziPay**](https://www.uzzipay.com/) • Full-time \
-Competências: `Desenvolvimento Estratégico`, `Análise de Viabilidade`, `Eficiência operacional`, 
-<br/> `Análise e Integridade de dados`, `Inovação empresarial`, `Pesquisa de mercado`
+[<img align="left" height="94px" width="94px" border_radius="20" alt="NTL" src="https://media.licdn.com/dms/image/C4D0BAQF1DwauaIYWRw/company-logo_200_200/0/1630539824323?e=2147483647&v=beta&t=YPG7nVracGhcqp0GNIKRsYU9qB6ifMzBAboSpEP7Th8"/>]
+**Software Developer** \
+[**NTL Nova Tecnologia LTDA**](www.ntl.com.br/) • 6 Horas \
+Competências: `Desenvolvimento Web`, `Banco de dados`
+<br/> `Visual Studio Code`, `Git`, `SQLServer`,
 
+<!-- #### Formação Acadêmica:
+Na visão geral abaixo você encontrará minha formação acadêmica: -->
 
+<!-- [<img align="left" height="150px" width="150px" alt="Warpnet" src="https://i.imgur.com/dlgDjLj.png"/>])
+**Analysis And Systems Development** \
+[**Cubos Academy**](https://www.santoinacio-rio.com.br/) \
+Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `JavaScript`
+<br/>Linguagens & Tecnologias - Back-end: `PHP`, `MySQL`, `NodeJs`-->
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=100&section=footer"/>
