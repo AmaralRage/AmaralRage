@@ -35,17 +35,18 @@
  ### Languages ​​and Tools
  
   <div style="display: inline_block"><br>
-  <img align="center" alt="Amaral-Javascript" height="34" width="34" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">
-  <img align="center" alt="Amaral-HTML" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Amaral-CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Amaral-Bootstrap" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Amaral-VsCode" height="35" width="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Amaral-Figma" height="35" width="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-   <img align="center" alt="Amaral-MySQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
-   <img align="center" alt="Amaral-Laravel" height="35" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
-   <img align="center" alt="Amaral-WordPress" height="45" width="45" src="https://img.icons8.com/color/512/wordpress.png">
+   
+ [<img height="40px" width="40px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+ [<img height="40px" width="40px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+ [<img height="40px" width="40px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+ [<img height="40px" width="40px" alt="Icone Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/>](https://www.figma.org/pt/)
+ [<img height="40px" width="40px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>](https://nodejs.org)
+ [<img height="41px" width="41px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.postgresql.org)
+ [<img height="41px" width="41px" alt="Icone PHP" src="https://skillicons.dev/icons?i=php"/>](https://www.postgresql.org)
+ [<img height="40px" width="40px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.org/pt/)
+ [<img height="40px" width="40px" alt="Icone VSCode" src="https://skillicons.dev/icons?i=vscode"/>](https://www.figma.org/pt/)
 
-   <img height="200" width="160" align="right" alt="Amaral's-gif" src="https://cdn.discordapp.com/attachments/1094999674307485749/1100820609564418250/mulherlinda_1.gif">
+   <img height="200" width="160" align="right" alt="Amaral's-gif" src="https://cdn.discordapp.com/attachments/1094999674307405749/1100020609564410250/mulherlinda_1.gif">
    </div>
   
   ##
