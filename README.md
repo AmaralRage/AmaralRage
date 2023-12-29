@@ -7,6 +7,8 @@
 - 👨🏼‍🎓 Graduated in Computer Technician - Colégio Santo Inácio - Botafogo-RJ.
 - 🏦 I currently work as a web development apprentice at NTL, a Web Development Company
 
+  
+  ###
 
 🪐 My Summaries:
 
