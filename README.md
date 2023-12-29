@@ -16,7 +16,12 @@
 <a href="https://github.com/AmaralRage">
   <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmaralRage&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=0c1a25&border_radius=10"/>
   <img height="175em" src=https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmaralRage&layout=compact&langs_count=8&theme=midnight-purple&border_color=0c1a25&border_radius=10"/>
-</a>
+</a> 
+
+<!-- <a href="https://github.com/AmaralRage">
+  <img height="175cm" src="https://github-readme-stats.vercel.app/api?username=AmaralRage&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=0c1a25"/>
+  <img height="175cm" aligh="center" style=border_radius="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaralRage&layout=compact&langs_count=7&theme=midnight-purple&border_color=0c1a25&border_radius=10"/>
+</div> -->
  
 ##
  
@@ -47,9 +52,21 @@
    </a>
    </a>
   </div>
- 
- ![snake gif](https://github.com/AmaralRage/AmaralRage/blob/output/github-contribution-grid-snake.svg)
    
  </div>
+
+##
+
+#### Experiência Profissional:
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/QMhRjxt3/Icone-UP-3.png"/>](https://www.uzzipay.com/)
+**Strategy and Innovation Analyst** \
+[**UzziPay**](https://www.uzzipay.com/) • Full-time \
+Competências: `Desenvolvimento Estratégico`, `Análise de Viabilidade`, `Eficiência operacional`, 
+<br/> `Análise e Integridade de dados`, `Inovação empresarial`, `Pesquisa de mercado`
+
+
+ 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=100&section=footer"/>
