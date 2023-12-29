@@ -19,8 +19,8 @@
 
 <div>
 <a href="https://github.com/AmaralRage">
-  <img height="178em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmaralRage&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=0c1a25&border_radius=10"/>
-  <img height="178em" aligh="right" style=border_radius="20" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmaralRage&layout=compact&langs_count=8&theme=midnight-purple&border_color=0c1a25&border_radius=10"/>
+  <img height="177em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmaralRage&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=0c1a25&border_radius=10"/>
+  <img height="177em" aligh="right" style=border_radius="20" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmaralRage&layout=compact&langs_count=8&theme=midnight-purple&border_color=0c1a25&border_radius=10"/>
 </a>
 
 
