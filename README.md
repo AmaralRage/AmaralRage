@@ -30,7 +30,7 @@
 [<img height="40px" width="40px" alt="Icone Html" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img height="40px" width="40px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [<img height="40px" width="40px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[<img height="40px" width="40px" alt="Icone Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/>](https://pt-br.react.dev)
+[<img height="40px" width="40px" alt="Icone Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/>](https://getbootstrap.com/)
 [<img height="40px" width="40px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
 [<img height="41px" width="41px" alt="Icone VSCode" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
 [<img height="41px" width="41px" alt="Icone PHP" src="https://skillicons.dev/icons?i=php"/>](https://developer.mozilla.org/pt-BR/docs/Glossary/PHP)
