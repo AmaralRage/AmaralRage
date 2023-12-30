@@ -34,7 +34,7 @@
 [<img height="40px" width="40px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
 [<img height="41px" width="41px" alt="Icone VSCode" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
 [<img height="41px" width="41px" alt="Icone PHP" src="https://skillicons.dev/icons?i=php"/>](https://developer.mozilla.org/pt-BR/docs/Glossary/PHP)
-[<img height="40px" width="40px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/?utm_medium=affiliate&utm_source=partnerstack&utm_campaign=digitalkajal6922&link=homepage&pscd=psxid.figma.com&ps_partner_key=ZGlnaXRhbGthamFsNjkyMg&gclid=CjwKCAiAnL-sBhBnEiwAJRGigo2Tk78RYed5QC8NmcCSu5K-yS8ajALPu6HFGFs9jk6c_FgxYf4FHRoChooQAvD_BwE&ps_xid=ZEuxEq3xfoLoKv&gsxid=ZEuxEq3xfoLoKv&gspk=ZGlnaXRhbGthamFsNjkyMg)
+[<img height="40px" width="40px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
 [<img height="41px" width="41px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.hostinger.com.br/tutoriais/o-que-e-mysql)
 
   
