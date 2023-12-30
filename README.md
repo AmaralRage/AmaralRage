@@ -35,7 +35,7 @@
 [<img height="41px" width="41px" alt="Icone VSCode" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
 [<img height="41px" width="41px" alt="Icone PHP" src="https://skillicons.dev/icons?i=php"/>](https://developer.mozilla.org/pt-BR/docs/Glossary/PHP)
 [<img height="40px" width="40px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.typescriptlang.org/pt/)
-[<img height="41px" width="41px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.postgresql.org)
+[<img height="41px" width="41px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.hostinger.com.br/tutoriais/o-que-e-mysql)
 
   
   ##
