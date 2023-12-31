@@ -66,7 +66,7 @@ In the overview below you will find my most recent work experience:
 **Software Developer** \
 [**NTL Nova Tecnologia LTDA**](www.ntl.com.br/) • 6 Hours \
 **Skills**: `Development FullStack`, `Database`
-<br/> `Visual Studio Code`, `Git`, `SQLServer`,
+<br/> `Visual Studio Code`, `Git`, `SQLServer`
 
 <!-- #### Formação Acadêmica:
 Na visão geral abaixo você encontrará minha formação acadêmica: -->
