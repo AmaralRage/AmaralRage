@@ -32,7 +32,7 @@
 [<img height="40px" width="40px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img height="40px" width="40px" alt="Icone Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/>](https://getbootstrap.com/)
 [<img height="40px" width="40px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-[<img height="41px" width="41px" alt="Icone Gitlab" src="https://skillicons.dev/icons?i=gitlab"/>](https://code.visualstudio.com/)
+[<img height="41px" width="41px" alt="Icone Gitlab" src="https://skillicons.dev/icons?i=gitlab"/>](https://about.gitlab.com/)
 [<img height="41px" width="41px" alt="Icone VSCode" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
 [<img height="41px" width="41px" alt="Icone PHP" src="https://skillicons.dev/icons?i=php"/>](https://developer.mozilla.org/pt-BR/docs/Glossary/PHP)
 [<img height="40px" width="40px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
@@ -58,13 +58,14 @@
 
 ##
 
-#### Experiência Profissional:
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+#### Professional Experience:
+
+In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" border_radius="20" alt="NTL" src="https://media.licdn.com/dms/image/C4D0BAQF1DwauaIYWRw/company-logo_200_200/0/1630539824323?e=2147483647&v=beta&t=YPG7nVracGhcqp0GNIKRsYU9qB6ifMzBAboSpEP7Th8"/>]
 **Software Developer** \
-[**NTL Nova Tecnologia LTDA**](www.ntl.com.br/) • 6 Horas \
-Competências: `Desenvolvimento FullStack`, `Banco de dados`
+[**NTL Nova Tecnologia LTDA**](www.ntl.com.br/) • 6 Hours \
+**Skills**: `Development FullStack`, `Database`
 <br/> `Visual Studio Code`, `Git`, `SQLServer`,
 
 <!-- #### Formação Acadêmica:
