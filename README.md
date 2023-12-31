@@ -5,7 +5,7 @@
 - 🖥️  Development Student - Front-End
 - 🚀 Currently working at NTL as Apprentice Fullstack Developer
 - 👨🏼‍🎓 Graduated in Computer Technician - Colégio Santo Inácio - Botafogo-RJ.
-- 🏦 I currently work as a web development apprentice at NTL, a Web Development Company
+- 🏢 I currently work as a web development apprentice at NTL, a Web Development Company
 
   
   ###
