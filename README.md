@@ -32,15 +32,16 @@
 [<img height="40px" width="40px" alt="Icone Java Script" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img height="40px" width="40px" alt="Icone Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/>](https://getbootstrap.com/)
 [<img height="40px" width="40px" alt="Icone Git" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+[<img height="41px" width="41px" alt="Icone Gitlab" src="https://skillicons.dev/icons?i=gitlab"/>](https://code.visualstudio.com/)
 [<img height="41px" width="41px" alt="Icone VSCode" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
 [<img height="41px" width="41px" alt="Icone PHP" src="https://skillicons.dev/icons?i=php"/>](https://developer.mozilla.org/pt-BR/docs/Glossary/PHP)
 [<img height="40px" width="40px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
 [<img height="41px" width="41px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.hostinger.com.br/tutoriais/o-que-e-mysql)
 
   
-  ##
+ ##
   
- ### 🔗 Connect with me
+ ### Connect with me
  
  <div style="display: inline_block"></div><br>
  <div></div>   
