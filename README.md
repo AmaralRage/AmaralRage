@@ -57,8 +57,7 @@
 #### Professional Experience:
 
 In the overview below you will find my most recent work experience:
-
-[<img align="left" height="94px" width="94px" border_radius="20" alt="NTL" src="https://media.licdn.com/dms/image/C4D0BAQF1DwauaIYWRw/company-logo_200_200/0/1630539824323?e=2147483647&v=beta&t=YPG7nVracGhcqp0GNIKRsYU9qB6ifMzBAboSpEP7Th8"/>]
+[<img align="left" height="94px" width="94px" border_radius="20px" alt="NTL" src="https://media.licdn.com/dms/image/C4D0BAQF1DwauaIYWRw/company-logo_200_200/0/1630539824323?e=2147483647&v=beta&t=YPG7nVracGhcqp0GNIKRsYU9qB6ifMzBAboSpEP7Th8"/>]
 **Software Developer** \
 [**NTL Nova Tecnologia LTDA**](https://www.ntl.com.br/) • 6 Hours \
 **Skills**: `Development FullStack`, `Database`
