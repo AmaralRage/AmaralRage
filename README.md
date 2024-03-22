@@ -1,4 +1,4 @@
-8<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=110&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=110&section=header"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
@@ -64,8 +64,9 @@ In the overview below you will find my most recent work experience:
 **Skills**: `Development FullStack`, `Database`
 <br/> `Visual Studio Code`, `Git`, `SQLServer`
 
+<br>
 
-In the overview below you will find my most recent work experience:
+In the overview below you will find my most recent integration project experience:
 <img align="left" height="94px" width="94px" border_radius="20%" alt="NTL" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwl36IjPdApp1i6SI_Wj708hrdTIZxRBYGAg4DS6ZGdw&s"/>
 <br>
 **Software Developer** \
