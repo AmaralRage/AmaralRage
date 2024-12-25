@@ -3,9 +3,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="200px" align="right">
 
 - 🖥️  Development Student - Front-End
-- 🚀 Currently working at NTL as Apprentice Fullstack Developer
+<!-- - 🚀 Currently working at NTL as Apprentice Fullstack Developer -->
 - 👨🏼‍🎓 Currently studying Systems Analysis and Development
-- 🏢 I currently work as a web developer at BRISA, a web development and integrative projects company
+<!-- - 🏢 I currently work as a web developer at BRISA, a web development and integrative projects company -->
 
   
   ###
