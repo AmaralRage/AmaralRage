@@ -76,7 +76,9 @@ In the overview below you will find my most recent integration project experienc
 
 
 <!-- #### Formação Acadêmica:
-Na visão geral abaixo você encontrará minha formação acadêmica: -->
+Na visão geral abaixo você encontrará minha formação acadêmica:
+- 🚀 Currently working at NTL as Apprentice Fullstack Developer 
+ -->
 
 <!-- [<img align="left" height="150px" width="150px" alt="Warpnet" src="https://i.imgur.com/dlgDjLj.png"/>])
 **Analysis And Systems Development** \
