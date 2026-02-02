@@ -2,9 +2,9 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="200px" align="right">
 
-- 🖥️  Development Student - Front-End
+- 🖥️  Development Student - FullStack
 - 👨🏼‍🎓 Currently studying Systems Analysis and Development
-- 🏢 I currently work as a web developer at BRISA, a web development and integrative projects company 
+<!-- - 🏢 I currently work as a web developer at BRISA, a web development and integrative projects company --> 
 
   
   ###
@@ -67,8 +67,8 @@ In the overview below you will find my most recent integration project experienc
 <br>
 **Software Developer** \
 [**Brisa - Software Development**](https://brisabr.com.br/) • 4 Hours \
-**Skills**: `Development Front-End`, `Trello`
-<br/> `Visual Studio Code`, `Git`, `SQLServer`
+**Skills**: `Development FullStack`, `Trello`
+<br/> `Visual Studio Code`, `Git`, `SQLServer`, `Database`
 
 
 
