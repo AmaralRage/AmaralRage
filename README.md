@@ -4,7 +4,7 @@
 
 - 🖥️  Development Student - FullStack
 - 👨🏼‍🎓 Currently studying Systems Analysis and Development
-- 🏢 I currently work as a web developer at BRISA, a web development and integrative projects company
+- 🏢 I currently work as a web developer at `BRISA`, a web development and integrative projects company
 
   
   ###
