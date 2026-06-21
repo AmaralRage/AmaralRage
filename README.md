@@ -85,6 +85,15 @@ Na visão geral abaixo você encontrará minha formação acadêmica:
 [**Cubos Academy**](https://www.santoinacio-rio.com.br/) \
 Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `JavaScript`
 <br/>Linguagens & Tecnologias - Back-end: `PHP`, `MySQL`, `NodeJs`-->
+
+
+##
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmaralRage/AmaralRage/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmaralRage/AmaralRage/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AmaralRage/AmaralRage/output/pacman-contribution-graph.svg">
+</picture>
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=100&section=footer"/>
