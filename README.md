@@ -53,7 +53,7 @@
 #### Professional Experience:
 
 In the overview below you will find my most recent work experience:
-<img align="left" height="94px" width="94px" alt="NTL" src="https://www.ntl.com.br/src/assets/img/ntl.png"/>
+<img align="left" height="94px" width="94px" alt="NTL" src="https://storage.googleapis.com/ecdt-logos/32185480000107/ntl_nova_tecnologia_ltda_32185480.webp"/>
 <br>
 **Software Developer** \
 [**NTL Nova Tecnologia LTDA**](https://www.ntl.com.br/) • 6 Hours \
@@ -89,11 +89,5 @@ Linguagens & Tecnologias - Front-end: `HTML`, `CSS`, `JavaScript`
 
 ##
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmaralRage/AmaralRage/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmaralRage/AmaralRage/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AmaralRage/AmaralRage/output/pacman-contribution-graph.svg">
-</picture>
- 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=100&section=footer"/>
