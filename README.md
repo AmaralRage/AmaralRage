@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="200px" align="right"> !-->
 
 <div align="center">
-  <img src="https://i.imgur.com/bH0LAix.png" width="100%" alt="AmaralRage - Build Learn Evolve" />
+  <img src="https://i.imgur.com/yEsp0ds.png" width="100%" alt="AmaralRage - Build Learn Evolve" />
 </div>
 
 - 🖥️  Development Student - FullStack
