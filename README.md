@@ -1,6 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=110&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=110&section=header"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="200px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="200px" align="right"> !-->
+
+<div align="center">
+  <img src="https://i.imgur.com/bH0LAix.png" width="100%" alt="AmaralRage - Build Learn Evolve" />
+</div>
 
 - 🖥️  Development Student - FullStack
 - 👨🏼‍🎓 Currently studying Systems Analysis and Development
@@ -14,7 +18,11 @@
 <div>
 <a href="https://github.com/AmaralRage">
   <img height="178em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmaralRage&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
-  <img height="178em" src=https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmaralRage&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&border_radius=10"/>
+  <img
+      height="178"
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmaralRage&layout=compact&langs_count=8&card_width=400&theme=midnight-purple&hide_border=true&border_radius=10"
+      alt="Programming Languages"
+    />
 </a> 
  
 ##
