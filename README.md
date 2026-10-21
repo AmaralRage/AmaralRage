@@ -17,9 +17,9 @@
 
 <div>
 <a href="https://github.com/AmaralRage">
-  <img height="178em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmaralRage&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
+  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmaralRage&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
   <img
-      height="178"
+      height="175"
       src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmaralRage&layout=compact&langs_count=8&card_width=400&theme=midnight-purple&hide_border=true&border_radius=10"
       alt="Programming Languages"
     />
